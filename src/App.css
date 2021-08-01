@@ -46,7 +46,6 @@ body,
   margin-left: 170px;
 }
 
-.movie__genres,
 .movie__year,
 .genres,
 .movie__summary {
@@ -60,13 +59,9 @@ body,
   padding: 8px 0px;
 }
 
-.movie__genres,
 .movie__year,
 .genres {
   color: #c1c1ce;
-}
-
-.genres {
   display: flex;
 }
 
